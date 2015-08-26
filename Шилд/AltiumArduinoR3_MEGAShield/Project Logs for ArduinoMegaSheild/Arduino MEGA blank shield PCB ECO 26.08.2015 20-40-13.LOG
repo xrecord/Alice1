@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=PWM8 Pin=P17-1
+Removed Pin From Net: NetName=PWM7 Pin=P17-2
+Removed Pin From Net: NetName=PWM6 Pin=P17-3
+Added Pin To Net: NetName=PWM7 Pin=P17-1
+Added Pin To Net: NetName=PWM6 Pin=P17-2
+Added Pin To Net: NetName=PWM5 Pin=P17-3
+Added Member To Class: ClassName=AdruinoMegaSheild Member=Component P1 Header 3
+Added Member To Class: ClassName=AdruinoMegaSheild Member=Component P6 Header 3
+Added Member To Class: ClassName=AdruinoMegaSheild Member=Component P7 Header 3
+Added Room: Name=AdruinoMegaSheild

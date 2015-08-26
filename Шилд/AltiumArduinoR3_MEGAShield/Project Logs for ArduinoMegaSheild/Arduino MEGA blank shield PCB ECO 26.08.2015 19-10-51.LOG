@@ -1,0 +1,9 @@
+Added Component: Designator=P4(DG307-2.54)
+Added Component: Designator=R17(6-0805_N)
+Added Pin To Net: NetName=5V Pin=P4-1
+Added Pin To Net: NetName=RESET Pin=P4-2
+Added Pin To Net: NetName=GND Pin=P4-3
+Added Pin To Net: NetName=RESET Pin=R17-1
+Added Pin To Net: NetName=5V Pin=R17-2
+Added Member To Class: ClassName=AdruinoMegaSheild Member=Component P4 Header 3
+Added Member To Class: ClassName=AdruinoMegaSheild Member=Component R17 100K

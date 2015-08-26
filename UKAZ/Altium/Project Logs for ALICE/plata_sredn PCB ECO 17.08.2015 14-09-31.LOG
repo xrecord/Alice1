@@ -1,0 +1,97 @@
+Removed Pin From Net: NetName=LED4 Pin=D2-1
+Removed Pin From Net: NetName=LED1 Pin=D3-1
+Removed Pin From Net: NetName=LED2 Pin=D4-1
+Added Component: Designator=D1(LED0805)
+Added Component: Designator=D5(LED0805)
+Added Component: Designator=D6(LED0805)
+Added Component: Designator=P1(Pad)
+Added Component: Designator=P2(Pad)
+Added Component: Designator=P3(Pad)
+Added Component: Designator=P5(HDR1X5)
+Added Component: Designator=R1(6-0805_N)
+Added Component: Designator=R1(6-0805_N)
+Added Component: Designator=R1(6-0805_N)
+Added Component: Designator=R1(6-0805_N)
+Added Component: Designator=S1(STMW)
+Added Component: Designator=S2(STMW)
+Added Component: Designator=S3(STMW)
+Added Component: Designator=S4(STMW)
+Added Component: Designator=S16(STMW)
+Added Component: Designator=S17(STMW)
+Added Component: Designator=S18(STMW)
+Added Component: Designator=S19(STMW)
+Added Component: Designator=S20(STMW)
+Added Component: Designator=S21(STMW)
+Added Component: Designator=S22(STMW)
+Added Component: Designator=S23(STMW)
+Added Component: Designator=S24(STMW)
+Added Component: Designator=S25(STMW)
+Added Component: Designator=S26(STMW)
+Added Component: Designator=S27(STMW)
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Pin To Net: NetName=LED3 Pin=D5-1
+Added Pin To Net: NetName=GND Pin=D5-2
+Added Pin To Net: NetName=LED1 Pin=D6-1
+Added Pin To Net: NetName=GND Pin=D6-2
+Added Pin To Net: NetName=NetP1_1 Pin=P1-1
+Added Pin To Net: NetName=NetP2_1 Pin=P2-1
+Added Pin To Net: NetName=NetD1_2 Pin=P3-1
+Added Pin To Net: NetName=A3 Pin=P5-1
+Added Pin To Net: NetName=LED3 Pin=P5-2
+Added Pin To Net: NetName=A1 Pin=P5-3
+Added Pin To Net: NetName=LED1 Pin=P5-4
+Added Pin To Net: NetName=GND Pin=P5-5
+Added Pin To Net: NetName=NetD1_1 Pin=R1-1
+Added Pin To Net: NetName=LED1 Pin=R1-2
+Added Pin To Net: NetName=LED2 Pin=R1-2
+Added Pin To Net: NetName=LED4 Pin=R1-2
+Added Pin To Net: NetName=NetP1_1 Pin=R1-2
+Added Pin To Net: NetName=NetP2_1 Pin=S3-1
+Added Pin To Net: NetName=NetP2_1 Pin=S3-1
+Added Pin To Net: NetName=NetD1_2 Pin=S3-2
+Added Pin To Net: NetName=NetD1_2 Pin=S3-2
+Added Pin To Net: NetName=A3 Pin=S25-1
+Added Pin To Net: NetName=A3 Pin=S25-1
+Added Pin To Net: NetName=GND Pin=S25-2
+Added Pin To Net: NetName=GND Pin=S25-2
+Added Pin To Net: NetName=A1 Pin=S26-1
+Added Pin To Net: NetName=A1 Pin=S26-1
+Added Pin To Net: NetName=GND Pin=S26-2
+Added Pin To Net: NetName=GND Pin=S26-2
+Added Pin To Net: NetName=NetD2_1 Pin=D2-1
+Added Pin To Net: NetName=NetD2_1 Pin=R1-1
+Added Net: Name=NetD2_1
+Added Pin To Net: NetName=NetD3_1 Pin=D3-1
+Added Pin To Net: NetName=NetD3_1 Pin=R1-1
+Added Net: Name=NetD3_1
+Added Pin To Net: NetName=NetD4_1 Pin=D4-1
+Added Pin To Net: NetName=NetD4_1 Pin=R1-1
+Added Net: Name=NetD4_1
+Added Member To Class: ClassName=plata_nizhn Member=Component D1 LED0
+Added Member To Class: ClassName=plata_verhn Member=Component D5 LED0
+Added Member To Class: ClassName=plata_verhn Member=Component D6 LED0
+Added Member To Class: ClassName=plata_nizhn Member=Component P1 2.14 pad
+Added Member To Class: ClassName=plata_nizhn Member=Component P2 2.14 pad
+Added Member To Class: ClassName=plata_nizhn Member=Component P3 2.14 pad
+Added Member To Class: ClassName=plata_verhn Member=Component P5 Header 5
+Added Member To Class: ClassName=plata_nizhn Member=Component R1 250
+Added Member To Class: ClassName=plata_sredn Member=Component R1 250
+Added Member To Class: ClassName=plata_nizhn Member=Component S1 B
+Added Member To Class: ClassName=plata_nizhn Member=Component S2 C
+Added Member To Class: ClassName=plata_nizhn Member=Component S3 E
+Added Member To Class: ClassName=plata_nizhn Member=Component S4 M
+Added Member To Class: ClassName=plata_verhn Member=Component S16 Ó
+Added Member To Class: ClassName=plata_verhn Member=Component S17 Ê
+Added Member To Class: ClassName=plata_verhn Member=Component S18 À
+Added Member To Class: ClassName=plata_verhn Member=Component S19 Ç
+Added Member To Class: ClassName=plata_verhn Member=Component S20 Ê
+Added Member To Class: ClassName=plata_verhn Member=Component S21 Î
+Added Member To Class: ClassName=plata_verhn Member=Component S22 Ð
+Added Member To Class: ClassName=plata_verhn Member=Component S23 Î
+Added Member To Class: ClassName=plata_verhn Member=Component S24 Ë
+Added Member To Class: ClassName=plata_verhn Member=Component S25 Å
+Added Member To Class: ClassName=plata_verhn Member=Component S26 Â
+Added Member To Class: ClassName=plata_verhn Member=Component S27 Û
+Added Room: Name=plata_nizhn
+Added Room: Name=plata_verhn

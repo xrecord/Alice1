@@ -1,0 +1,19 @@
+Change Component Designator: OldDesignator=P1 NewDesignator=P?
+Added Component: Designator=P1(DG307-2.54)
+Added Component: Designator=P?(DG307-2.54)
+Added Component: Designator=P?(DG307-2.54)
+Added Component: Designator=P?(DG307-2.54)
+Added Pin To Net: NetName=AD0 Pin=P1-1
+Added Pin To Net: NetName=AD1 Pin=P1-2
+Added Pin To Net: NetName=AD2 Pin=P1-3
+Added Pin To Net: NetName=AD3 Pin=P?-1
+Added Pin To Net: NetName=AD6 Pin=P?-1
+Added Pin To Net: NetName=AD9 Pin=P?-1
+Added Pin To Net: NetName=AD4 Pin=P?-2
+Added Pin To Net: NetName=AD7 Pin=P?-2
+Added Pin To Net: NetName=AD10 Pin=P?-2
+Added Pin To Net: NetName=AD5 Pin=P?-3
+Added Pin To Net: NetName=AD8 Pin=P?-3
+Added Pin To Net: NetName=AD11 Pin=P?-3
+Added Member To Class: ClassName=AdruinoMegaSheild Member=Component P? Header 3
+Added Room: Name=AdruinoMegaSheild

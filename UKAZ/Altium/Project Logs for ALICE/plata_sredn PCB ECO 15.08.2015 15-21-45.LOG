@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=A1 Pin=P?-1
+Removed Pin From Net: NetName=LED1 Pin=P?-2
+Removed Pin From Net: NetName=A2 Pin=P?-3
+Removed Pin From Net: NetName=LED2 Pin=P?-4
+Added Pin To Net: NetName=A2 Pin=P?-1
+Added Pin To Net: NetName=LED2 Pin=P?-2
+Added Pin To Net: NetName=A1 Pin=P?-3
+Added Pin To Net: NetName=LED1 Pin=P?-4
+Added Room: Name=plata_nizhn
+Added Room: Name=plata_sredn

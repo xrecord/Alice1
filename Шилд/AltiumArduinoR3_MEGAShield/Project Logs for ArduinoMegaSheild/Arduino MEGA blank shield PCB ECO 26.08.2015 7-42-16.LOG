@@ -1,0 +1,78 @@
+Added Component: Designator=ICSP(ICSP)
+Added Component: Designator=R1(6-0805_N)
+Added Component: Designator=R2(6-0805_N)
+Added Component: Designator=R3(6-0805_N)
+Added Component: Designator=R4(6-0805_N)
+Added Component: Designator=R5(6-0805_N)
+Added Component: Designator=R6(6-0805_N)
+Added Component: Designator=R7(6-0805_N)
+Added Component: Designator=R8(6-0805_N)
+Added Component: Designator=R9(6-0805_N)
+Added Component: Designator=R10(6-0805_N)
+Added Component: Designator=R11(6-0805_N)
+Added Component: Designator=R12(6-0805_N)
+Added Component: Designator=R13(6-0805_N)
+Added Component: Designator=R14(6-0805_N)
+Added Component: Designator=R15(6-0805_N)
+Added Component: Designator=R16(6-0805_N)
+Added Component: Designator=R17(6-0805_N)
+Added Pin To Net: NetName=MISO Pin=ICSP-1
+Added Pin To Net: NetName=5V Pin=ICSP-2
+Added Pin To Net: NetName=SCK Pin=ICSP-3
+Added Pin To Net: NetName=MOSI Pin=ICSP-4
+Added Pin To Net: NetName=RESET Pin=ICSP-5
+Added Pin To Net: NetName=GND Pin=ICSP-6
+Added Pin To Net: NetName=5V Pin=R1-1
+Added Pin To Net: NetName=AD0 Pin=R1-2
+Added Pin To Net: NetName=5V Pin=R2-1
+Added Pin To Net: NetName=AD1 Pin=R2-2
+Added Pin To Net: NetName=5V Pin=R3-1
+Added Pin To Net: NetName=AD2 Pin=R3-2
+Added Pin To Net: NetName=5V Pin=R4-1
+Added Pin To Net: NetName=AD3 Pin=R4-2
+Added Pin To Net: NetName=5V Pin=R5-1
+Added Pin To Net: NetName=AD4 Pin=R5-2
+Added Pin To Net: NetName=5V Pin=R6-1
+Added Pin To Net: NetName=AD5 Pin=R6-2
+Added Pin To Net: NetName=5V Pin=R7-1
+Added Pin To Net: NetName=AD6 Pin=R7-2
+Added Pin To Net: NetName=5V Pin=R8-1
+Added Pin To Net: NetName=AD7 Pin=R8-2
+Added Pin To Net: NetName=5V Pin=R9-1
+Added Pin To Net: NetName=AD8 Pin=R9-2
+Added Pin To Net: NetName=5V Pin=R10-1
+Added Pin To Net: NetName=AD9 Pin=R10-2
+Added Pin To Net: NetName=5V Pin=R11-1
+Added Pin To Net: NetName=AD10 Pin=R11-2
+Added Pin To Net: NetName=5V Pin=R12-1
+Added Pin To Net: NetName=AD11 Pin=R12-2
+Added Pin To Net: NetName=5V Pin=R13-1
+Added Pin To Net: NetName=AD12 Pin=R13-2
+Added Pin To Net: NetName=5V Pin=R14-1
+Added Pin To Net: NetName=AD13 Pin=R14-2
+Added Pin To Net: NetName=5V Pin=R15-1
+Added Pin To Net: NetName=AD14 Pin=R15-2
+Added Pin To Net: NetName=5V Pin=R16-1
+Added Pin To Net: NetName=AD15 Pin=R16-2
+Added Pin To Net: NetName=5V Pin=R17-1
+Added Pin To Net: NetName=AD16 Pin=R17-2
+Added Net: Name=AD16
+Added Member To Class: ClassName=AdruinoMegaSheild Member=Component ICSP
+Added Member To Class: ClassName=AdruinoMegaSheild Member=Component R1 100K
+Added Member To Class: ClassName=AdruinoMegaSheild Member=Component R2 100K
+Added Member To Class: ClassName=AdruinoMegaSheild Member=Component R3 100K
+Added Member To Class: ClassName=AdruinoMegaSheild Member=Component R4 100K
+Added Member To Class: ClassName=AdruinoMegaSheild Member=Component R5 100K
+Added Member To Class: ClassName=AdruinoMegaSheild Member=Component R6 100K
+Added Member To Class: ClassName=AdruinoMegaSheild Member=Component R7 100K
+Added Member To Class: ClassName=AdruinoMegaSheild Member=Component R8 100K
+Added Member To Class: ClassName=AdruinoMegaSheild Member=Component R9 100K
+Added Member To Class: ClassName=AdruinoMegaSheild Member=Component R10 100K
+Added Member To Class: ClassName=AdruinoMegaSheild Member=Component R11 100K
+Added Member To Class: ClassName=AdruinoMegaSheild Member=Component R12 100K
+Added Member To Class: ClassName=AdruinoMegaSheild Member=Component R13 100K
+Added Member To Class: ClassName=AdruinoMegaSheild Member=Component R14 100K
+Added Member To Class: ClassName=AdruinoMegaSheild Member=Component R15 100K
+Added Member To Class: ClassName=AdruinoMegaSheild Member=Component R16 100K
+Added Member To Class: ClassName=AdruinoMegaSheild Member=Component R17 100K
+Added Room: Name=AdruinoMegaSheild

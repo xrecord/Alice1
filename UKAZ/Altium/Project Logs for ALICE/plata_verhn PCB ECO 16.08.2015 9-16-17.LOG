@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=LED2 Pin=P5-3
+Added Pin To Net: NetName=LED3 Pin=P5-3
+Added Room: Name=plata_nizhn
+Added Room: Name=plata_sredn
+Added Room: Name=plata_verhn

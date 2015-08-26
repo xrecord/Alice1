@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=5V Pin=R17-1
+Removed Member From Class: ClassName=AdruinoMegaSheild Member=R17
+Added Room: Name=AdruinoMegaSheild

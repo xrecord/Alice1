@@ -1,0 +1,6 @@
+Added Component: Designator=P10(DG307-2.54)
+Added Pin To Net: NetName=AD12 Pin=P10-1
+Added Pin To Net: NetName=AD13 Pin=P10-2
+Added Pin To Net: NetName=AD14 Pin=P10-3
+Added Member To Class: ClassName=AdruinoMegaSheild Member=Component P10 Header 3
+Added Room: Name=AdruinoMegaSheild

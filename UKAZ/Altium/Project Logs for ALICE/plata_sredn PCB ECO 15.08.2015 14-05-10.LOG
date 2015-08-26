@@ -1,0 +1,63 @@
+Added Component: Designator=D1(LED0805)
+Added Component: Designator=D2(LED0805)
+Added Component: Designator=D3(LED0805)
+Added Component: Designator=D4(LED0805)
+Added Component: Designator=P1(Pad)
+Added Component: Designator=P2(Pad)
+Added Component: Designator=P3(Pad)
+Added Component: Designator=S1(STMW)
+Added Component: Designator=S2(STMW)
+Added Component: Designator=S3(STMW)
+Added Component: Designator=S4(STMW)
+Added Component: Designator=S5(STMW)
+Added Component: Designator=S6(STMW)
+Added Component: Designator=S7(STMW)
+Added Component: Designator=S8(STMW)
+Added Component: Designator=S9(STMW)
+Added Component: Designator=S10(STMW)
+Added Component: Designator=S11(STMW)
+Added Component: Designator=S12(STMW)
+Added Component: Designator=S13(STMW)
+Added Component: Designator=S14(STMW)
+Added Component: Designator=S15(STMW)
+Added Pin To Net: NetName=A1 Pin=S13-1
+Added Pin To Net: NetName=A1 Pin=S13-1
+Added Net: Name=A1
+Added Pin To Net: NetName=A2 Pin=S15-1
+Added Pin To Net: NetName=A2 Pin=S15-1
+Added Net: Name=A2
+Added Pin To Net: NetName=A4 Pin=S7-1
+Added Pin To Net: NetName=A4 Pin=S7-1
+Added Net: Name=A4
+Added Pin To Net: NetName=GND Pin=D2-2
+Added Pin To Net: NetName=GND Pin=D3-2
+Added Pin To Net: NetName=GND Pin=D4-2
+Added Pin To Net: NetName=GND Pin=S7-2
+Added Pin To Net: NetName=GND Pin=S7-2
+Added Pin To Net: NetName=GND Pin=S13-2
+Added Pin To Net: NetName=GND Pin=S13-2
+Added Pin To Net: NetName=GND Pin=S15-2
+Added Pin To Net: NetName=GND Pin=S15-2
+Added Net: Name=GND
+Added Pin To Net: NetName=LED1 Pin=D3-1
+Added Net: Name=LED1
+Added Pin To Net: NetName=LED2 Pin=D4-1
+Added Net: Name=LED2
+Added Pin To Net: NetName=LED4 Pin=D2-1
+Added Net: Name=LED4
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_1 Pin=P1-1
+Added Net: Name=NetD1_1
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Pin To Net: NetName=NetD1_2 Pin=P3-1
+Added Pin To Net: NetName=NetD1_2 Pin=S3-2
+Added Pin To Net: NetName=NetD1_2 Pin=S3-2
+Added Net: Name=NetD1_2
+Added Pin To Net: NetName=NetP2_1 Pin=P2-1
+Added Pin To Net: NetName=NetP2_1 Pin=S3-1
+Added Pin To Net: NetName=NetP2_1 Pin=S3-1
+Added Net: Name=NetP2_1
+Added Class: Name=plata_nizhn
+Added Class: Name=plata_sredn
+Added Room: Name=plata_nizhn
+Added Room: Name=plata_sredn

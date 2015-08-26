@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=TX0 Pin=P18-1
+Removed Pin From Net: NetName=RX0 Pin=P18-2
+Removed Pin From Net: NetName=GND Pin=P18-3
+Removed Pin From Net: NetName=TX1 Pin=P19-1
+Removed Pin From Net: NetName=GND Pin=P19-3
+Added Pin To Net: NetName=GND Pin=P18-1
+Added Pin To Net: NetName=TX0 Pin=P18-2
+Added Pin To Net: NetName=RX0 Pin=P18-3
+Added Pin To Net: NetName=GND Pin=P19-1
+Added Pin To Net: NetName=TX1 Pin=P19-2
+Added Pin To Net: NetName=RX1 Pin=P19-3
+Added Room: Name=AdruinoMegaSheild

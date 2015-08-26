@@ -1,0 +1,51 @@
+Change Component Designator: OldDesignator=P1 NewDesignator=P11
+Change Component Designator: OldDesignator=P6 NewDesignator=P12
+Change Component Designator: OldDesignator=P7 NewDesignator=P13
+Change Component Designator: OldDesignator=P8 NewDesignator=P14
+Added Component: Designator=P1(DG307-2.54)
+Added Component: Designator=P6(DG307-2.54)
+Added Component: Designator=P7(DG307-2.54)
+Added Component: Designator=P8(DG307-2.54)
+Added Component: Designator=P15(DG307-2.54)
+Added Component: Designator=P16(DG307-2.54)
+Added Component: Designator=P17(DG307-2.54)
+Added Component: Designator=P18(DG307-2.54)
+Added Component: Designator=P19(DG307-2.54)
+Added Pin To Net: NetName=IO23 Pin=P1-1
+Added Pin To Net: NetName=IO25 Pin=P1-2
+Added Pin To Net: NetName=IO27 Pin=P1-3
+Added Pin To Net: NetName=IO29 Pin=P6-1
+Added Pin To Net: NetName=IO31 Pin=P6-2
+Added Pin To Net: NetName=IO33 Pin=P6-3
+Added Pin To Net: NetName=IO35 Pin=P7-1
+Added Pin To Net: NetName=IO37 Pin=P7-2
+Added Pin To Net: NetName=IO39 Pin=P7-3
+Added Pin To Net: NetName=IO41 Pin=P8-1
+Added Pin To Net: NetName=IO43 Pin=P8-2
+Added Pin To Net: NetName=IO45 Pin=P8-3
+Added Pin To Net: NetName=PWM13 Pin=P15-1
+Added Pin To Net: NetName=PWM12 Pin=P15-2
+Added Pin To Net: NetName=PWM11 Pin=P15-3
+Added Pin To Net: NetName=PWM10 Pin=P16-1
+Added Pin To Net: NetName=PWM9 Pin=P16-2
+Added Pin To Net: NetName=PWM8 Pin=P16-3
+Added Pin To Net: NetName=PWM8 Pin=P17-1
+Added Pin To Net: NetName=PWM7 Pin=P17-2
+Added Pin To Net: NetName=PWM6 Pin=P17-3
+Added Pin To Net: NetName=TX0 Pin=P18-1
+Added Pin To Net: NetName=RX0 Pin=P18-2
+Added Pin To Net: NetName=GND Pin=P18-3
+Added Pin To Net: NetName=TX1 Pin=P19-1
+Added Pin To Net: NetName=GND Pin=P19-3
+Added Pin To Net: NetName=TRX0 Pin=P19-2
+Added Net: Name=TRX0
+Added Member To Class: ClassName=AdruinoMegaSheild Member=Component P11 Header 3
+Added Member To Class: ClassName=AdruinoMegaSheild Member=Component P12 Header 3
+Added Member To Class: ClassName=AdruinoMegaSheild Member=Component P13 Header 3
+Added Member To Class: ClassName=AdruinoMegaSheild Member=Component P14 Header 3
+Added Member To Class: ClassName=AdruinoMegaSheild Member=Component P15 Header 3
+Added Member To Class: ClassName=AdruinoMegaSheild Member=Component P16 Header 3
+Added Member To Class: ClassName=AdruinoMegaSheild Member=Component P17 Header 3
+Added Member To Class: ClassName=AdruinoMegaSheild Member=Component P18 Header 3
+Added Member To Class: ClassName=AdruinoMegaSheild Member=Component P19 Header 3
+Added Room: Name=AdruinoMegaSheild

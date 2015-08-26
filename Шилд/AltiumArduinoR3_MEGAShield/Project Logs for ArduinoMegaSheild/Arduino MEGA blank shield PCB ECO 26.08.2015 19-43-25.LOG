@@ -1,0 +1,16 @@
+Added Component: Designator=P5(DG307-2.54)
+Added Component: Designator=R18(6-0805_N)
+Added Component: Designator=R19(VR5)
+Added Pin To Net: NetName=5V Pin=P5-1
+Added Pin To Net: NetName=AD15 Pin=P5-2
+Added Pin To Net: NetName=GND Pin=P5-3
+Added Pin To Net: NetName=GND Pin=R18-2
+Added Pin To Net: NetName=5V Pin=R19-2
+Added Pin To Net: NetName=AD15 Pin=R19-3
+Added Pin To Net: NetName=NetR18_1 Pin=R18-1
+Added Pin To Net: NetName=NetR18_1 Pin=R19-1
+Added Net: Name=NetR18_1
+Added Member To Class: ClassName=AdruinoMegaSheild Member=Component P5 Header 3
+Added Member To Class: ClassName=AdruinoMegaSheild Member=Component R18 0
+Added Member To Class: ClassName=AdruinoMegaSheild Member=Component R19 RPot
+Added Room: Name=AdruinoMegaSheild

@@ -1,0 +1,9 @@
+Added Component: Designator=P?(HDR1X7)
+Added Pin To Net: NetName=A1 Pin=P?-1
+Added Pin To Net: NetName=LED1 Pin=P?-2
+Added Pin To Net: NetName=A2 Pin=P?-3
+Added Pin To Net: NetName=LED2 Pin=P?-4
+Added Pin To Net: NetName=A4 Pin=P?-5
+Added Pin To Net: NetName=LED4 Pin=P?-6
+Added Pin To Net: NetName=GND Pin=P?-7
+Added Member To Class: ClassName=plata_sredn Member=Component P? Header 7

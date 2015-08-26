@@ -1,0 +1,12 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [ALICE.PrjPCB]
+   Generated File[plata_verhn.GTL]
+   Generated File[plata_verhn.EXTREP]
+   Generated File[plata_verhn.REP]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 21:27:22 On 17.08.2015

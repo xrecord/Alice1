@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=5V Pin=DIGITAL-1
+Removed Pin From Net: NetName=5V Pin=DIGITAL-2
+Removed Pin From Net: NetName=5V Pin=POWER-4
+Added Pin To Net: NetName=5V Pin=DIGITAL-35
+Added Pin To Net: NetName=5V Pin=DIGITAL-36
+Added Pin To Net: NetName=5V Pin=POWER-2
+Added Pin To Net: NetName=5V Pin=POWER-3
+Added Pin To Net: NetName=5V Pin=PWM_H-7
+Change Net Name : Old Net Name=5V New Net Name=GND
+Added Pin To Net: NetName=5V Pin=DIGITAL-1
+Added Pin To Net: NetName=5V Pin=DIGITAL-2
+Added Pin To Net: NetName=5V Pin=POWER-4
+Added Net: Name=5V
+Added Room: Name=AdruinoMegaSheild

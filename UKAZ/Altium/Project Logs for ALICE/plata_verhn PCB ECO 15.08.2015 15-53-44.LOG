@@ -1,0 +1,107 @@
+Added Component: Designator=D1(LED0805)
+Added Component: Designator=D2(LED0805)
+Added Component: Designator=D3(LED0805)
+Added Component: Designator=D4(LED0805)
+Added Component: Designator=D5(LED0805)
+Added Component: Designator=D6(LED0805)
+Added Component: Designator=P1(Pad)
+Added Component: Designator=P2(Pad)
+Added Component: Designator=P3(Pad)
+Added Component: Designator=P4(HDR1X7)
+Added Component: Designator=P5(HDR1X5)
+Added Component: Designator=S1(STMW)
+Added Component: Designator=S2(STMW)
+Added Component: Designator=S3(STMW)
+Added Component: Designator=S4(STMW)
+Added Component: Designator=S5(STMW)
+Added Component: Designator=S6(STMW)
+Added Component: Designator=S7(STMW)
+Added Component: Designator=S8(STMW)
+Added Component: Designator=S9(STMW)
+Added Component: Designator=S10(STMW)
+Added Component: Designator=S11(STMW)
+Added Component: Designator=S12(STMW)
+Added Component: Designator=S13(STMW)
+Added Component: Designator=S14(STMW)
+Added Component: Designator=S15(STMW)
+Added Component: Designator=S16(STMW)
+Added Component: Designator=S17(STMW)
+Added Component: Designator=S18(STMW)
+Added Component: Designator=S19(STMW)
+Added Component: Designator=S20(STMW)
+Added Component: Designator=S21(STMW)
+Added Component: Designator=S22(STMW)
+Added Component: Designator=S23(STMW)
+Added Component: Designator=S24(STMW)
+Added Component: Designator=S25(STMW)
+Added Component: Designator=S26(STMW)
+Added Component: Designator=S27(STMW)
+Added Pin To Net: NetName=A1 Pin=P4-3
+Added Pin To Net: NetName=A1 Pin=P5-2
+Added Pin To Net: NetName=A1 Pin=S13-1
+Added Pin To Net: NetName=A1 Pin=S13-1
+Added Pin To Net: NetName=A1 Pin=S26-1
+Added Pin To Net: NetName=A1 Pin=S26-1
+Added Net: Name=A1
+Added Pin To Net: NetName=A2 Pin=P4-1
+Added Pin To Net: NetName=A2 Pin=P5-4
+Added Pin To Net: NetName=A2 Pin=S15-1
+Added Pin To Net: NetName=A2 Pin=S15-1
+Added Net: Name=A2
+Added Pin To Net: NetName=A3 Pin=S25-1
+Added Pin To Net: NetName=A3 Pin=S25-1
+Added Net: Name=A3
+Added Pin To Net: NetName=A4 Pin=P4-6
+Added Pin To Net: NetName=A4 Pin=S7-1
+Added Pin To Net: NetName=A4 Pin=S7-1
+Added Net: Name=A4
+Added Pin To Net: NetName=GND Pin=D2-2
+Added Pin To Net: NetName=GND Pin=D3-2
+Added Pin To Net: NetName=GND Pin=D4-2
+Added Pin To Net: NetName=GND Pin=D5-2
+Added Pin To Net: NetName=GND Pin=D6-2
+Added Pin To Net: NetName=GND Pin=P4-5
+Added Pin To Net: NetName=GND Pin=P5-5
+Added Pin To Net: NetName=GND Pin=S7-2
+Added Pin To Net: NetName=GND Pin=S7-2
+Added Pin To Net: NetName=GND Pin=S13-2
+Added Pin To Net: NetName=GND Pin=S13-2
+Added Pin To Net: NetName=GND Pin=S15-2
+Added Pin To Net: NetName=GND Pin=S15-2
+Added Pin To Net: NetName=GND Pin=S25-2
+Added Pin To Net: NetName=GND Pin=S25-2
+Added Pin To Net: NetName=GND Pin=S26-2
+Added Pin To Net: NetName=GND Pin=S26-2
+Added Net: Name=GND
+Added Pin To Net: NetName=LED1 Pin=D3-1
+Added Pin To Net: NetName=LED1 Pin=D6-1
+Added Pin To Net: NetName=LED1 Pin=P4-4
+Added Pin To Net: NetName=LED1 Pin=P5-1
+Added Net: Name=LED1
+Added Pin To Net: NetName=LED2 Pin=D4-1
+Added Pin To Net: NetName=LED2 Pin=P4-2
+Added Pin To Net: NetName=LED2 Pin=P5-3
+Added Net: Name=LED2
+Added Pin To Net: NetName=LED3 Pin=D5-1
+Added Net: Name=LED3
+Added Pin To Net: NetName=LED4 Pin=D2-1
+Added Pin To Net: NetName=LED4 Pin=P4-7
+Added Net: Name=LED4
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_1 Pin=P1-1
+Added Net: Name=NetD1_1
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Pin To Net: NetName=NetD1_2 Pin=P3-1
+Added Pin To Net: NetName=NetD1_2 Pin=S3-2
+Added Pin To Net: NetName=NetD1_2 Pin=S3-2
+Added Net: Name=NetD1_2
+Added Pin To Net: NetName=NetP2_1 Pin=P2-1
+Added Pin To Net: NetName=NetP2_1 Pin=S3-1
+Added Pin To Net: NetName=NetP2_1 Pin=S3-1
+Added Net: Name=NetP2_1
+Added Class: Name=plata_nizhn
+Added Class: Name=plata_sredn
+Added Class: Name=plata_verhn
+Added Room: Name=plata_nizhn
+Added Room: Name=plata_sredn
+Added Room: Name=plata_verhn

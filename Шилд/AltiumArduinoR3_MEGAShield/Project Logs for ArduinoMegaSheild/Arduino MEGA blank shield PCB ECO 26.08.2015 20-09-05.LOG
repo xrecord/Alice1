@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=AD9 Pin=P?-1
+Removed Pin From Net: NetName=AD10 Pin=P?-2
+Removed Pin From Net: NetName=AD11 Pin=P?-3
+Change Component Designator: OldDesignator=P? NewDesignator=P6
+Change Component Designator: OldDesignator=P? NewDesignator=P7
+Change Component Designator: OldDesignator=P? NewDesignator=P8
+Change Component Designator: OldDesignator=P? NewDesignator=P9
+Added Pin To Net: NetName=AD3 Pin=P6-1
+Added Pin To Net: NetName=AD4 Pin=P6-2
+Added Pin To Net: NetName=AD5 Pin=P6-3
+Added Pin To Net: NetName=AD6 Pin=P7-1
+Added Pin To Net: NetName=AD7 Pin=P7-2
+Added Pin To Net: NetName=AD8 Pin=P7-3
+Added Pin To Net: NetName=AD9 Pin=P8-1
+Added Pin To Net: NetName=AD10 Pin=P8-2
+Added Pin To Net: NetName=AD11 Pin=P8-3
+Added Member To Class: ClassName=AdruinoMegaSheild Member=Component P1 Header 3
+Added Member To Class: ClassName=AdruinoMegaSheild Member=Component P6 Header 3
+Added Member To Class: ClassName=AdruinoMegaSheild Member=Component P7 Header 3
+Added Member To Class: ClassName=AdruinoMegaSheild Member=Component P8 Header 3
