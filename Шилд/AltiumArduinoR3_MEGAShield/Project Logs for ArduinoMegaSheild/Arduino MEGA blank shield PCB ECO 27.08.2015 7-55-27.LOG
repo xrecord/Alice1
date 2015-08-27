@@ -1,0 +1,15 @@
+Added Pin To Net: NetName=GND Pin=D1-2
+Added Pin To Net: NetName=GND Pin=D2-2
+Added Pin To Net: NetName=GND Pin=D3-2
+Added Pin To Net: NetName=GND Pin=D4-2
+Added Pin To Net: NetName=GND Pin=D5-2
+Added Pin To Net: NetName=GND Pin=D6-2
+Added Pin To Net: NetName=GND Pin=D7-2
+Added Pin To Net: NetName=GND Pin=D8-2
+Added Pin To Net: NetName=GND Pin=D9-2
+Added Pin To Net: NetName=GND Pin=D10-2
+Added Pin To Net: NetName=GND Pin=D11-2
+Added Pin To Net: NetName=GND Pin=D12-2
+Added Member To Class: ClassName=AdruinoMegaSheild Member=Component D12 LED0
+Added Member To Class: ClassName=AdruinoMegaSheild Member=Component R31 1K
+Added Room: Name=AdruinoMegaSheild

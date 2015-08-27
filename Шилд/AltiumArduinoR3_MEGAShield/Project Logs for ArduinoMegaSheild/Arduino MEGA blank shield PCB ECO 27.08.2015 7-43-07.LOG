@@ -1,0 +1,21 @@
+Added Component: Designator=DIGITAL(HEADER 36X 8MM)
+Added Pin To Net: NetName=5V Pin=DIGITAL-1
+Added Pin To Net: NetName=IO22 Pin=DIGITAL-3
+Added Pin To Net: NetName=IO24 Pin=DIGITAL-5
+Added Pin To Net: NetName=IO26 Pin=DIGITAL-7
+Added Pin To Net: NetName=IO28 Pin=DIGITAL-9
+Added Pin To Net: NetName=IO30 Pin=DIGITAL-11
+Added Pin To Net: NetName=IO32 Pin=DIGITAL-13
+Added Pin To Net: NetName=IO34 Pin=DIGITAL-15
+Added Pin To Net: NetName=IO36 Pin=DIGITAL-17
+Added Pin To Net: NetName=IO38 Pin=DIGITAL-19
+Added Pin To Net: NetName=IO40 Pin=DIGITAL-21
+Added Pin To Net: NetName=IO42 Pin=DIGITAL-23
+Added Pin To Net: NetName=IO44 Pin=DIGITAL-25
+Added Pin To Net: NetName=IO46 Pin=DIGITAL-27
+Added Pin To Net: NetName=IO48 Pin=DIGITAL-29
+Added Pin To Net: NetName=IO50 Pin=DIGITAL-31
+Added Pin To Net: NetName=IO52 Pin=DIGITAL-33
+Added Pin To Net: NetName=GND Pin=DIGITAL-35
+Added Member To Class: ClassName=AdruinoMegaSheild Member=Component DIGITAL IO_36
+Added Room: Name=AdruinoMegaSheild

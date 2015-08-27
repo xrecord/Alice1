@@ -1,0 +1,42 @@
+Added Component: Designator=D?(LED0805)
+Added Component: Designator=D?(LED0805)
+Added Component: Designator=D?(LED0805)
+Added Component: Designator=D?(LED0805)
+Added Component: Designator=D?(LED0805)
+Added Component: Designator=D?(LED0805)
+Added Component: Designator=D?(LED0805)
+Added Component: Designator=D?(LED0805)
+Added Component: Designator=D?(LED0805)
+Added Component: Designator=D?(LED0805)
+Added Component: Designator=D?(LED0805)
+Added Component: Designator=D?(LED0805)
+Added Component: Designator=R?(6-0805_N)
+Added Component: Designator=R?(6-0805_N)
+Added Component: Designator=R?(6-0805_N)
+Added Component: Designator=R?(6-0805_N)
+Added Component: Designator=R?(6-0805_N)
+Added Component: Designator=R?(6-0805_N)
+Added Component: Designator=R?(6-0805_N)
+Added Component: Designator=R?(6-0805_N)
+Added Component: Designator=R?(6-0805_N)
+Added Component: Designator=R?(6-0805_N)
+Added Component: Designator=R?(6-0805_N)
+Added Component: Designator=R?(6-0805_N)
+Added Pin To Net: NetName=IO23 Pin=R?-1
+Added Pin To Net: NetName=IO25 Pin=R?-1
+Added Pin To Net: NetName=IO27 Pin=R?-1
+Added Pin To Net: NetName=IO29 Pin=R?-1
+Added Pin To Net: NetName=IO31 Pin=R?-1
+Added Pin To Net: NetName=IO33 Pin=R?-1
+Added Pin To Net: NetName=IO35 Pin=R?-1
+Added Pin To Net: NetName=IO37 Pin=R?-1
+Added Pin To Net: NetName=IO39 Pin=R?-1
+Added Pin To Net: NetName=IO41 Pin=R?-1
+Added Pin To Net: NetName=IO43 Pin=R?-1
+Added Pin To Net: NetName=IO45 Pin=R?-1
+Added Pin To Net: NetName=NetD?_1 Pin=D?-1
+Added Pin To Net: NetName=NetD?_1 Pin=R?-2
+Added Net: Name=NetD?_1
+Added Member To Class: ClassName=AdruinoMegaSheild Member=Component D? LED0
+Added Member To Class: ClassName=AdruinoMegaSheild Member=Component R? 1K
+Added Room: Name=AdruinoMegaSheild

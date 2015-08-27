@@ -1,0 +1,8 @@
+Added Component: Designator=P20(HDR1X5H)
+Added Pin To Net: NetName=PWM2 Pin=P20-1
+Added Pin To Net: NetName=TX0 Pin=P20-2
+Added Pin To Net: NetName=RX0 Pin=P20-3
+Added Pin To Net: NetName=GND Pin=P20-4
+Added Pin To Net: NetName=5V Pin=P20-5
+Added Member To Class: ClassName=AdruinoMegaSheild Member=Component P20 Header 5H
+Added Room: Name=AdruinoMegaSheild

@@ -1,0 +1,94 @@
+Removed Pin From Net: NetName=IO45 Pin=R?-1
+Change Component Designator: OldDesignator=D? NewDesignator=D1
+Change Component Designator: OldDesignator=D? NewDesignator=D2
+Change Component Designator: OldDesignator=D? NewDesignator=D3
+Change Component Designator: OldDesignator=D? NewDesignator=D4
+Change Component Designator: OldDesignator=D? NewDesignator=D5
+Change Component Designator: OldDesignator=D? NewDesignator=D6
+Change Component Designator: OldDesignator=D? NewDesignator=D7
+Change Component Designator: OldDesignator=D? NewDesignator=D8
+Change Component Designator: OldDesignator=D? NewDesignator=D9
+Change Component Designator: OldDesignator=D? NewDesignator=D10
+Change Component Designator: OldDesignator=D? NewDesignator=D11
+Change Component Designator: OldDesignator=D? NewDesignator=D12
+Change Component Designator: OldDesignator=R? NewDesignator=R20
+Change Component Designator: OldDesignator=R? NewDesignator=R21
+Change Component Designator: OldDesignator=R? NewDesignator=R22
+Change Component Designator: OldDesignator=R? NewDesignator=R23
+Change Component Designator: OldDesignator=R? NewDesignator=R24
+Change Component Designator: OldDesignator=R? NewDesignator=R25
+Change Component Designator: OldDesignator=R? NewDesignator=R26
+Change Component Designator: OldDesignator=R? NewDesignator=R27
+Change Component Designator: OldDesignator=R? NewDesignator=R28
+Change Component Designator: OldDesignator=R? NewDesignator=R29
+Change Component Designator: OldDesignator=R? NewDesignator=R30
+Change Component Designator: OldDesignator=R? NewDesignator=R31
+Added Pin To Net: NetName=IO23 Pin=R20-1
+Added Pin To Net: NetName=IO25 Pin=R21-1
+Added Pin To Net: NetName=IO27 Pin=R22-1
+Added Pin To Net: NetName=IO29 Pin=R23-1
+Added Pin To Net: NetName=IO31 Pin=R24-1
+Added Pin To Net: NetName=IO33 Pin=R25-1
+Added Pin To Net: NetName=IO35 Pin=R26-1
+Added Pin To Net: NetName=IO37 Pin=R27-1
+Added Pin To Net: NetName=IO39 Pin=R28-1
+Added Pin To Net: NetName=IO41 Pin=R29-1
+Added Pin To Net: NetName=IO43 Pin=R30-1
+Added Pin To Net: NetName=IO45 Pin=R31-1
+Change Net Name : Old Net Name=NetD?_1 New Net Name=NetD1_1
+Added Pin To Net: NetName=NetD2_1 Pin=D2-1
+Added Pin To Net: NetName=NetD2_1 Pin=R21-2
+Added Net: Name=NetD2_1
+Added Pin To Net: NetName=NetD3_1 Pin=D3-1
+Added Pin To Net: NetName=NetD3_1 Pin=R22-2
+Added Net: Name=NetD3_1
+Added Pin To Net: NetName=NetD4_1 Pin=D4-1
+Added Pin To Net: NetName=NetD4_1 Pin=R23-2
+Added Net: Name=NetD4_1
+Added Pin To Net: NetName=NetD5_1 Pin=D5-1
+Added Pin To Net: NetName=NetD5_1 Pin=R24-2
+Added Net: Name=NetD5_1
+Added Pin To Net: NetName=NetD6_1 Pin=D6-1
+Added Pin To Net: NetName=NetD6_1 Pin=R25-2
+Added Net: Name=NetD6_1
+Added Pin To Net: NetName=NetD7_1 Pin=D7-1
+Added Pin To Net: NetName=NetD7_1 Pin=R26-2
+Added Net: Name=NetD7_1
+Added Pin To Net: NetName=NetD8_1 Pin=D8-1
+Added Pin To Net: NetName=NetD8_1 Pin=R27-2
+Added Net: Name=NetD8_1
+Added Pin To Net: NetName=NetD9_1 Pin=D9-1
+Added Pin To Net: NetName=NetD9_1 Pin=R28-2
+Added Net: Name=NetD9_1
+Added Pin To Net: NetName=NetD10_1 Pin=D10-1
+Added Pin To Net: NetName=NetD10_1 Pin=R29-2
+Added Net: Name=NetD10_1
+Added Pin To Net: NetName=NetD11_1 Pin=D11-1
+Added Pin To Net: NetName=NetD11_1 Pin=R30-2
+Added Net: Name=NetD11_1
+Added Pin To Net: NetName=NetD12_1 Pin=D12-1
+Added Pin To Net: NetName=NetD12_1 Pin=R31-2
+Added Net: Name=NetD12_1
+Added Member To Class: ClassName=AdruinoMegaSheild Member=Component D1 LED0
+Added Member To Class: ClassName=AdruinoMegaSheild Member=Component D2 LED0
+Added Member To Class: ClassName=AdruinoMegaSheild Member=Component D3 LED0
+Added Member To Class: ClassName=AdruinoMegaSheild Member=Component D4 LED0
+Added Member To Class: ClassName=AdruinoMegaSheild Member=Component D5 LED0
+Added Member To Class: ClassName=AdruinoMegaSheild Member=Component D6 LED0
+Added Member To Class: ClassName=AdruinoMegaSheild Member=Component D7 LED0
+Added Member To Class: ClassName=AdruinoMegaSheild Member=Component D8 LED0
+Added Member To Class: ClassName=AdruinoMegaSheild Member=Component D9 LED0
+Added Member To Class: ClassName=AdruinoMegaSheild Member=Component D10 LED0
+Added Member To Class: ClassName=AdruinoMegaSheild Member=Component D11 LED0
+Added Member To Class: ClassName=AdruinoMegaSheild Member=Component R20 1K
+Added Member To Class: ClassName=AdruinoMegaSheild Member=Component R21 1K
+Added Member To Class: ClassName=AdruinoMegaSheild Member=Component R22 1K
+Added Member To Class: ClassName=AdruinoMegaSheild Member=Component R23 1K
+Added Member To Class: ClassName=AdruinoMegaSheild Member=Component R24 1K
+Added Member To Class: ClassName=AdruinoMegaSheild Member=Component R25 1K
+Added Member To Class: ClassName=AdruinoMegaSheild Member=Component R26 1K
+Added Member To Class: ClassName=AdruinoMegaSheild Member=Component R27 1K
+Added Member To Class: ClassName=AdruinoMegaSheild Member=Component R28 1K
+Added Member To Class: ClassName=AdruinoMegaSheild Member=Component R29 1K
+Added Member To Class: ClassName=AdruinoMegaSheild Member=Component R30 1K
+Added Room: Name=AdruinoMegaSheild
